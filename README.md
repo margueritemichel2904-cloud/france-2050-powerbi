@@ -89,7 +89,7 @@ Les marges de progression reposent sur : le développement des renouvelables , l
 ![Vue régionale](images/Vue_régionale.png)
 
 ### TCH et TCO des filières
-![TCH et TCO des filières](images/TCH_TCO_filirères.png)
+![TCH et TCO des filières](images/TCH_TCO_filières.png)
 
 ### Projection 2030
 ![Projection 2030](images/projection_2030.png)
