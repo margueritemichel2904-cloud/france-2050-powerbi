@@ -80,10 +80,17 @@ Les marges de progression reposent sur : le développement des renouvelables , l
 🖼 Aperçu du dashboard
 ## 🖼 Aperçu du dashboard
 
-![Panorama du mix énergétique](images/panorama.png)
+## Aperçu du dashboard Power BI
 
-![Trajectoires climatiques](images/trajectoires.png)
+### Panorama des filières françaises
+![Panorama des filières françaises](images/panorama_filières_françaises.png)
 
-![Analyse régionale](images/regions.png)
+### Vue régionale
+![Vue régionale](images/Vue_régionale.png)
 
+### TCH et TCO des filières
+![TCH et TCO des filières](images/TCH_TCO_filirères.png)
+
+### Projection 2030
+![Projection 2030](images/projection_2030.png)
 
